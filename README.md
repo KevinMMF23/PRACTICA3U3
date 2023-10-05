@@ -3,6 +3,8 @@
 ## Acerca del Proyecto
 
 Este proyecto es una aplicación web que te permite llenar un formulario, ver los resultados en una página de resultados y vaciar la tabla de resultados si lo deseas.
+## Herramientas Utilizadas
+CSS,JavaScript,HTML y el IDE VisualStudioCode
 
 ## Preguntas Frecuentes
 
